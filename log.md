@@ -1,4 +1,4 @@
-| No. Of Layers | Learning Rate | Momentum | Epoch1 | Epoch 2 | Epoch 3 | Epoch 4 | Epoch 5 | Epoch 6 | Epoch 7 | Epoch 8 | Epoch 9 | Epoch10 | Mean  | Std Dev |
+| No.OfLayers   | Learning Rate | Momentum | Epoch1 | Epoch 2 | Epoch3  | Epoch4  | Epoch5  | Epoch6  | Epoch7  | Epoch8  | Epoch9  | Epoch10 | Mean  | Std Dev |
 |---------------|---------------|----------|--------|---------|---------|---------|---------|---------|---------|---------|---------|---------|-------|---------|
 | 3             | 0.001         | 0.9      | 90.63  | 96.88   | 87.50   | 93.75   | 90.63   | 93.75   | 96.88   | 90.63   | 93.75   | 96.88   | 93.13 | 3.23    |
 | 3             | 0.001         | 0.8      | 84.38  | 93.75   | 87.50   | 90.63   | 90.63   | 93.75   | 96.88   | 90.63   | 93.75   | 96.88   | 91.88 | 3.95    |
