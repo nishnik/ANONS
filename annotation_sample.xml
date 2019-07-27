@@ -1,7 +1,7 @@
 <annotation>
 	<object>
 		<name>1</name>
-		<difficult>0</difficult>
+		<difficult>mitosis</difficult>
 		<bndbox>
 			<xmin>82</xmin>
 			<xmax>172</xmax>
